@@ -1,0 +1,7 @@
+{
+    "name": "vsce-sign issue",
+    "dockerComposeFile": "../docker-compose.yml",
+    "service": "service",
+    "workspaceFolder": "/app",
+    "shutdownAction": "stopCompose"
+  }
